@@ -1,0 +1,93 @@
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\GameTemplate.exe
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\GameTemplate.deps.json
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\GameTemplate.runtimeconfig.json
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\GameTemplate.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\GameTemplate.pdb
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.csproj.AssemblyReference.cache
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.AssemblyInfoInputs.cache
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.AssemblyInfo.cs
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.csproj.CoreCompileInputs.cache
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.csproj.CopyComplete
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\refint\GameTemplate.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.pdb
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.genruntimeconfig.cache
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\ref\GameTemplate.dll
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\fonts\highlightFont.xnb
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\fonts\regularFont.xnb
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\images\help.xnb
+C:\Users\jorda\OneDrive\Documents\CPA\Year 2\Fall 2022\PROG2370\Week11\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\images\Bat.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\fonts\highlightFont.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\fonts\regularFont.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\GameTemplate.exe
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\GameTemplate.deps.json
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\GameTemplate.runtimeconfig.json
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\GameTemplate.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\GameTemplate.pdb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.csproj.AssemblyReference.cache
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.AssemblyInfoInputs.cache
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.AssemblyInfo.cs
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.csproj.CoreCompileInputs.cache
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.csproj.CopyComplete
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\refint\GameTemplate.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.pdb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\GameTemplate.genruntimeconfig.cache
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\obj\Debug\net6.0-windows\ref\GameTemplate.dll
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\images\mainBackground1.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\images\mainNerd1.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\images\mainNerd2.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\images\obstacle1.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\images\obstacle2.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\images\obstacle3.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\images\obstacle4.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\images\obstacle5.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\images\sky.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\images\mainBackground2.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\images\thomas.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\fonts\hilightFont.xnb
+C:\Users\jennn\OneDrive\바탕 화면\GameTemplate\GameTemplate\bin\Debug\net6.0-windows\Content\images\logo.xnb
